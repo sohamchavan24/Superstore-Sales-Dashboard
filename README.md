@@ -66,8 +66,3 @@ This project presents an interactive Power BI dashboard built using the Supersto
 ## Author
 
 **Soham Arun Chavan**
-
-
-LinkedIn: Add your LinkedIn profile link here
-
-GitHub: Add your GitHub profile link here
